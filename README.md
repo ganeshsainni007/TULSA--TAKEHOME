@@ -22,7 +22,7 @@ The warehouse utilizes a **Star Schema** architecture, designed for high-perform
   - `fact_knowledge_rating`: Captures the **Importance** and **Level** scores of knowledge areas for every occupation.
 
 ### Schema Diagram (ERD)
-![Workforce Warehouse ERD](docs/erd_diagram.png)
+![Workforce Warehouse ERD](docs/erd_diagram.jpeg)
 
 ---
 
